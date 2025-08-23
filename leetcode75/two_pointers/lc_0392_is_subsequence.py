@@ -1,3 +1,8 @@
+# Is Subsequence (https://leetcode.com/problems/is-subsequence/)
+# Study Plan: LeetCode 75
+# Category: Two Pointers
+# Problem: Is Subsequence
+
 class Solution:
   def isSubsequence(self, s: str, t: str) -> bool:
     if not s:

@@ -1,3 +1,8 @@
+# Container With Most Water (https://leetcode.com/problems/container-with-most-water/)
+# Study Plan: LeetCode 75
+# Category: Two Pointers
+# Problem: Container With Most Water
+
 class Solution:
   def maxArea(self, height: list[int]) -> int:
     ans = 0

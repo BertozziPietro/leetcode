@@ -1,3 +1,8 @@
+# Max Number of K-Sum Pairs (https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+# Study Plan: LeetCode 75
+# Category: Two Pointers
+# Problem: Max Number of K-Sum Pairs
+
 import collections
 
 class Solution:

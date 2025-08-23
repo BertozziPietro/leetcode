@@ -1,0 +1,128 @@
+{
+  "study_plan_name": "LeetCode 75",
+  "base_url": "https://leetcode.com/studyplan/leetcode-75/",
+  "repo_path": "./leetcode75/",
+  "language": "Python3",
+  "extension": ".py",
+  "problems_by_category": {
+    "Array String": [
+      { "id": 1768, "name": "Merge Strings Alternately" },
+      { "id": 1071, "name": "Greatest Common Divisor of Strings" },
+      { "id": 1431, "name": "Kids With the Greatest Number of Cies" },
+      { "id": 605, "name": "Can Place Flowers" },
+      { "id": 345, "name": "Reverse Vowels of a String" },
+      { "id": 151, "name": "Reverse Words in a String" },
+      { "id": 238, "name": "Product of Array Except Self" },
+      { "id": 334, "name": "Increasing Triplet Subsequence" },
+      { "id": 443, "name": "String Compression" }
+    ],
+    "Two Pointers": [
+      { "id": 283, "name": "Move Zeroes" },
+      { "id": 392, "name": "Is Subsequence" },
+      { "id": 11, "name": "Container With Most Water" },
+      { "id": 1679, "name": "Max Number of K-Sum Pairs" }
+    ],
+    "Sliding Window": [
+      { "id": 643, "name": "Maximum Average Subarray I" },
+      { "id": 1456, "name": "Maximum Number of Vowels in a Substring of Given Length" },
+      { "id": 1004, "name": "Max Consecutive Ones III" },
+      { "id": 1493, "name": "Longest Subarray of 1's After Deleting One Element" }
+    ],
+    "Prefix Sum": [
+      { "id": 1732, "name": "Find the Highest Altitude" },
+      { "id": 724, "name": "Find Pivot Index" }
+    ],
+    "Hash Map Set": [
+      { "id": 2215, "name": "Find the Difference of Two Arrays" },
+      { "id": 1207, "name": "Unique Number of Occurrences" },
+      { "id": 1657, "name": "Determine if Two Strings Are Close" },
+      { "id": 2352, "name": "Equal Row and Column Pairs" }
+    ],
+    "Stack": [
+      { "id": 2390, "name": "Removing Stars From a String" },
+      { "id": 735, "name": "Asteroid Collision" },
+      { "id": 394, "name": "Decode String" }
+    ],
+    "Queue": [
+      { "id": 933, "name": "Number of Recent Calls" },
+      { "id": 649, "name": "Dota2 Senate" }
+    ],
+    "Linked List": [
+      { "id": 2095, "name": "Delete the Middle Node of a Linked List" },
+      { "id": 328, "name": "Odd Even Linked List" },
+      { "id": 206, "name": "Reverse Linked List" },
+      { "id": 2130, "name": "Maximum Twin Sum of a Linked List" }
+    ],
+    "Binary Tree DFS": [
+      { "id": 104, "name": "Maximum Depth of Binary Tree" },
+      { "id": 872, "name": "Leaf-Similar Trees" },
+      { "id": 1448, "name": "Count Good Nodes in Binary Tree" },
+      { "id": 437, "name": "Path Sum III" },
+      { "id": 1372, "name": "Longest ZigZag Path in a Binary Tree" },
+      { "id": 236, "name": "Lowest Common Ancestor of a Binary Tree" }
+    ],
+    "Binary Tree BFS": [
+      { "id": 199, "name": "Binary Tree Right Side View" },
+      { "id": 1161, "name": "Maximum Level Sum of a Binary Tree" }
+    ],
+    "Binary Search Tree": [
+      { "id": 700, "name": "Search in a Binary Search Tree" },
+      { "id": 450, "name": "Delete Node in a BST" }
+    ],
+    "Graphs DFS": [
+      { "id": 841, "name": "Keys and Rooms" },
+      { "id": 547, "name": "Number of Provinces" },
+      { "id": 1466, "name": "Reorder Routes to Make All Paths Lead to the City Zero" },
+      { "id": 399, "name": "Evaluate Division" }
+    ],
+    "Graphs BFS": [
+      { "id": 1926, "name": "Nearest Exit from Entrance in Maze" },
+      { "id": 994, "name": "Rotting Oranges" }
+    ],
+    "Heap Priority Queue": [
+      { "id": 215, "name": "Kth Largest Element in an Array" },
+      { "id": 2336, "name": "Smallest Number in Infinite Set" },
+      { "id": 2542, "name": "Maximum Subsequence Score" },
+      { "id": 2462, "name": "Total Cost to Hire K Workers" }
+    ],
+    "Binary Search": [
+      { "id": 374, "name": "Guess Number Higher or Lower" },
+      { "id": 2300, "name": "Successful Pairs of Spells and Potions" },
+      { "id": 162, "name": "Find Peak Element" },
+      { "id": 875, "name": "Koko Eating Bananas" }
+    ],
+    "Backtracking": [
+      { "id": 17, "name": "Letter Combinations of a Phone Number" },
+      { "id": 216, "name": "Combination Sum III" }
+    ],
+    "DP 1D": [
+      { "id": 1137, "name": "N-th Tribonacci Number" },
+      { "id": 746, "name": "Min Cost Climbing Stairs" },
+      { "id": 198, "name": "House Robber" },
+      { "id": 790, "name": "Domino and Tromino Tiling" }
+    ],
+    "DP Multidimensional": [
+      { "id": 62, "name": "Unique Paths" },
+      { "id": 1143, "name": "Longest Common Subsequence" },
+      { "id": 714, "name": "Best Time to Buy and Sell Stock with Transaction Fee" },
+      { "id": 72, "name": "Edit Distance" }
+    ],
+    "Bit Manipulation": [
+      { "id": 338, "name": "Counting Bits" },
+      { "id": 136, "name": "Single Number" },
+      { "id": 1318, "name": "Minimum Flips to Make a OR b Equal to c" }
+    ],
+    "Trie": [
+      { "id": 208, "name": "Implement Trie (Prefix Tree)" },
+      { "id": 1268, "name": "Search Suggestions System" }
+    ],
+    "Intervals": [
+      { "id": 435, "name": "Non-overlapping Intervals" },
+      { "id": 452, "name": "Minimum Number of Arrows to Burst Balloons" }
+    ],
+    "Monotonic Stack": [
+      { "id": 739, "name": "Daily Temperatures" },
+      { "id": 901, "name": "Online Stock Span" }
+    ]
+  }
+}

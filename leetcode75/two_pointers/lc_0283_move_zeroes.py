@@ -1,3 +1,8 @@
+# Move Zeroes (https://leetcode.com/problems/move-zeroes/)
+# Study Plan: LeetCode 75
+# Category: Two Pointers
+# Problem: Move Zeroes
+
 class Solution:
   def moveZeroes(self, nums: list[int]) -> None:
     j = 0
